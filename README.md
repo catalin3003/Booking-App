@@ -1,2 +1,2 @@
 # Booking-App
-App for holiday booking site 
+SPA for holiday booking site
